@@ -1,2 +1,2 @@
-# Python254
-Python254
+# Python25
+Python25
